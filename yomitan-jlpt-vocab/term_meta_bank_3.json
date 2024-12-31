@@ -689,7 +689,7 @@
 	["芝居", "freq", {"reading": "しばい", "frequency": {"value": 3, "displayValue": "N3"}}],
 	["しばしば", "freq", {"reading": "しばしば", "frequency": {"value": 3, "displayValue": "N3"}}],
 	["芝生", "freq", {"reading": "しばふ", "frequency": {"value": 3, "displayValue": "N3"}}],
-	["支払い", "freq", {"reading": "しはらい", "frequency": {"value": 3, "displayValue": "N3"}}],
+	["支払", "freq", {"reading": "しはらい", "frequency": {"value": 3, "displayValue": "N3"}}],
 	["支払う", "freq", {"reading": "しはらう", "frequency": {"value": 3, "displayValue": "N3"}}],
 	["死亡", "freq", {"reading": "しぼう", "frequency": {"value": 3, "displayValue": "N3"}}],
 	["資本", "freq", {"reading": "しほん", "frequency": {"value": 3, "displayValue": "N3"}}],
