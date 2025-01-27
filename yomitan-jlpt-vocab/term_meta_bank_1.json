@@ -1039,7 +1039,6 @@
 	["語源", "freq", {"reading": "ごげん", "frequency": {"value": 1, "displayValue": "N1"}}],
 	["誤差", "freq", {"reading": "ごさ", "frequency": {"value": 1, "displayValue": "N1"}}],
 	["ございます", "freq", {"reading": "ございます", "frequency": {"value": 1, "displayValue": "N1"}}],
-	["御座います", "freq", {"reading": "ございます", "frequency": {"value": 1, "displayValue": "N1"}}],
 	["毎", "freq", {"reading": "ごと", "frequency": {"value": 1, "displayValue": "N1"}}],
 	["碁盤", "freq", {"reading": "ごばん", "frequency": {"value": 1, "displayValue": "N1"}}],
 	["誤魔化す", "freq", {"reading": "ごまかす", "frequency": {"value": 1, "displayValue": "N1"}}],
