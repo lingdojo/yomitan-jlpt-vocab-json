@@ -7,8 +7,6 @@
 	["合う", "freq", {"reading": "あう", "frequency": {"value": 4, "displayValue": "N4"}}],
 	["赤ちゃん", "freq", {"reading": "あかちゃん", "frequency": {"value": 4, "displayValue": "N4"}}],
 	["上がる", "freq", {"reading": "あがる", "frequency": {"value": 4, "displayValue": "N4"}}],
-	["挙がる", "freq", {"reading": "あがる", "frequency": {"value": 4, "displayValue": "N4"}}],
-	["揚がる", "freq", {"reading": "あがる", "frequency": {"value": 4, "displayValue": "N4"}}],
 	["赤ん坊", "freq", {"reading": "あかんぼう", "frequency": {"value": 4, "displayValue": "N4"}}],
 	["空く", "freq", {"reading": "あく", "frequency": {"value": 4, "displayValue": "N4"}}],
 	["アクセサリー", "freq", {"reading": "アクセサリー", "frequency": {"value": 4, "displayValue": "N4"}}],

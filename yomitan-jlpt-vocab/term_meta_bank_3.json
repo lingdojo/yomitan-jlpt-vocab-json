@@ -699,7 +699,7 @@
 	["資本", "freq", {"reading": "しほん", "frequency": {"value": 3, "displayValue": "N3"}}],
 	["仕舞い", "freq", {"reading": "しまい", "frequency": {"value": 3, "displayValue": "N3"}}],
 	["姉妹", "freq", {"reading": "しまい", "frequency": {"value": 3, "displayValue": "N3"}}],
-	["仕舞う", "freq", {"reading": "しまう", "frequency": {"value": 3, "displayValue": "N3"}}],
+	["しまう", "freq", {"reading": "しまう", "frequency": {"value": 3, "displayValue": "N3"}}],
 	["しまった", "freq", {"reading": "しまった", "frequency": {"value": 3, "displayValue": "N3"}}],
 	["自慢", "freq", {"reading": "じまん", "frequency": {"value": 3, "displayValue": "N3"}}],
 	["事務", "freq", {"reading": "じむ", "frequency": {"value": 3, "displayValue": "N3"}}],
